@@ -1,5 +1,5 @@
 # keti
-######7월14일 업데이트 예정
+
 #### 기술개발 항목
   1. Python 기반 데이터 분석 소프트웨어
     - Python의 다양한 API를 이용하여 데이터를 수집, 분석하는 소프트웨어 개발
@@ -9,7 +9,10 @@
 ####세부계획
   1. Python의 다양한 API를 이용하여 데이터를 수집, 분석하는 소프트웨어 개발
     - Python에서 데이터 수집, 분석하는데 사용하거나 필요한 API, Library 알아볼 것. 장단점 비교, 분석
-      - numpy, scikit, 
+      •Python 을 이용한 기본적인 데이터 분석 
+        •Scikit , IPython, numpy, pandas 등 활용
+      •Python for Data Analysis 책 읽기
+
     - 기존에 Python을 이용해 데이터 분석한 사례, 예를 정리
       - https://www.kaggle.com/ 기계학습 관련 사이트
     - 데이터 수집 방법
