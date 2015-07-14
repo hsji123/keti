@@ -9,9 +9,9 @@
 ####세부계획
   1. Python의 다양한 API를 이용하여 데이터를 수집, 분석하는 소프트웨어 개발
     - Python에서 데이터 수집, 분석하는데 사용하거나 필요한 API, Library 알아볼 것. 장단점 비교, 분석
-      -Python 을 이용한 기본적인 데이터 분석 
-        -Scikit , IPython, numpy, pandas 등 활용
-      -Python for Data Analysis 책 읽기
+      - Python 을 이용한 기본적인 데이터 분석 
+        - Scikit , IPython, numpy, pandas 등 활용
+      - Python for Data Analysis 책 읽기
 
     - 기존에 Python을 이용해 데이터 분석한 사례, 예를 정리
       - https://www.kaggle.com/ 기계학습 관련 사이트
@@ -24,12 +24,12 @@
       - 지난번 미세먼지 웹 추출 같은 경우가. 기초적인 데이터 수집 방법임
       - 빅데이터라고 하면 1TB 정도 인데... 현재 빅데이터를 모으는것도 어려운 문제이고. KETI 에서 보유하고 있는 건물의 센서 정보를 활용하는 것은 편리할 것임
       - 빅데이터 분석을 문자 차원에서 할 것인지. 측정 데이터 차원에서 할것인지가 첫번째 선택사항이라고 볼 수 있음. 문자 차원으로 실험을 하려면 한글로 할것인지. 영어로 할것인지에 따라 데이터를 구할수 있는지 없는지가 결정될 것임
-        -검색어  의미 분석
-          -word2vec 
-            -https://radimrehurek.com/gensim/models/word2vec.html - gensim word2vec 
-            -설명 : http://alwaysnext.tistory.com/55
-            -관련 데모 : http://w.elnn.kr/search/?query=%EC%99%95%EC%9E%90-%EB%82%A8%EC%9E%90%2B%EC%97%AC%EC%9E%90
-            -데모버전은 한글을 인식하지만 기본적으로 영어를 기반으로 인식함.(한글은 정확도가 낮아 보임)
+        - 검색어  의미 분석
+          - word2vec 
+            - https://radimrehurek.com/gensim/models/word2vec.html - gensim word2vec 
+            - 설명 : http://alwaysnext.tistory.com/55
+            - 관련 데모 : http://w.elnn.kr/search/?query=%EC%99%95%EC%9E%90-%EB%82%A8%EC%9E%90%2B%EC%97%AC%EC%9E%90
+            - 데모버전은 한글을 인식하지만 기본적으로 영어를 기반으로 인식함.(한글은 정확도가 낮아 보임)
 
 
   1. 웹 컨텐츠에서 필요한 데이터를 수집, 처리, 필터링
