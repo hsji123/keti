@@ -12,7 +12,13 @@
       - Python 을 이용한 기본적인 데이터 분석 
         - Scikit , IPython, numpy, pandas 등 활용
       - Python for Data Analysis 책 읽기
-
+        - 3장 IPython: An Interactive Computing and Development Environment
+        - 4장 NumPy Basics: Arrays and Vectorized Computation
+        - 5장 Getting Started with pandas
+        - 6장 Data Loading, Storage, and File Formats
+        - 7장 Data Wrangling: Clean, Transform, Merge, Reshape
+        - 8장 Plotting and Visualization
+        - 9장 Data Aggregation and Group Operations
     - 기존에 Python을 이용해 데이터 분석한 사례, 예를 정리
       - https://www.kaggle.com/ 기계학습 관련 사이트
     - 데이터 수집 방법
