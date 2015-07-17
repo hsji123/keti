@@ -13,7 +13,15 @@
         - Scikit , IPython, numpy, pandas 등 활용
       - Python for Data Analysis 책 읽기
         - 3장 IPython: An Interactive Computing and Development Environment
+          - Ipython 사용법 익히기.
+          - %run, %bookmark, %time, %paste 기능 공부
+          - 원래 matplotlib에서에서 그래프를 그리면 python 작동이 멈추지만 Ipython에서는 듀얼이 가능.
+          - Ipython notebook 기능 사용이 안됨.(다시 참고해 볼 것)
         - 4장 NumPy Basics: Arrays and Vectorized Computation
+          - [0][0]이랑 [0,0]이 같음
+          - [:2] 처음부터 1까지
+          - [] 괄호 안에는 조건이 들어갈 수 있음.(boolean이나 != == 등등)
+          - T, sort(정렬), mean(평균), cumsum(누적합), cumprod(누적곱)
         - 5장 Getting Started with pandas
         - 6장 Data Loading, Storage, and File Formats
         - 7장 Data Wrangling: Clean, Transform, Merge, Reshape
