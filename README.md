@@ -23,6 +23,8 @@
           - [] 괄호 안에는 조건이 들어갈 수 있음.(boolean이나 != == 등등)
           - T, sort(정렬), mean(평균), cumsum(누적합), cumprod(누적곱)
         - 5장 Getting Started with pandas
+          - merge, groupby등을 통해 table 통합
+          - read_csv를 통해 데이터 가져오기(',' '/' 등으로 구분)
         - 6장 Data Loading, Storage, and File Formats
         - 7장 Data Wrangling: Clean, Transform, Merge, Reshape
         - 8장 Plotting and Visualization
